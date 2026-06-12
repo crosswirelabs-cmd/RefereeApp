@@ -1,3 +1,4 @@
+(screenshots/connection-screen.jpg)
 Spinastra Referee App
 
 Real-time mobile scoring application for the Spinastra Tournament Ecosystem.
